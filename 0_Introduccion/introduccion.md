@@ -4,17 +4,13 @@
 
 ---
 
-#### 🎯 Objetivos - Aprendizaje del Chatbot de AsisteClick 1/2
+#### 🎯 Objetivos - Aprendizaje del Chatbot de AsisteClick 
 
-1.  **🤖 Familiarización con la Interfaz del Chatbot de AsisteClick:** 
+1.  **🤖 Familiarización con la Interfaz del Chatbot de AsisteClick** 
 
-2.  **💬 Dominio de los Flujos de Conversación:** 
+2.  **💬 Dominio de los Flujos de Conversación** 
 
-3.  **⚙️ Configuración Avanzada del Chatbot:** 
-
----
-
-#### 🎯 Objetivos - Aprendizaje del Chatbot de AsisteClick 2/2
+3.  **⚙️ Configuración Avanzada del Chatbot** 
 
 4.  **📊 Análisis de Métricas y Optimización**
 
@@ -36,7 +32,7 @@
 
 #### 🛠️ Requisitos - AsisteClick Chatbot 2/2
 
-5.  **📚 Documentación del Chatbot de AsisteClick** 
+5.  **📚 Documentación del Chatbot de AsisteClick** [Documentación](https://docs.asisteclick.com/)
 
 6.  **🤝 Espacio de Colaboración (Opcional)** 
 
