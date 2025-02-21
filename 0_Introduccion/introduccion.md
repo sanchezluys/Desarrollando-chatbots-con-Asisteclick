@@ -16,18 +16,9 @@
 
 #### 🎯 Objetivos - Aprendizaje del Chatbot de AsisteClick 2/2
 
-4.  **📊 Análisis de Métricas y Optimización:** Aprender a analizar las métricas del chatbot de AsisteClick para identificar áreas de mejora y optimizar su rendimiento.  Esto incluye:
-    *   Monitorizar el número de conversaciones iniciadas.
-    *   Evaluar la tasa de éxito de las conversaciones (ej: resolución de problemas, cumplimiento de objetivos).
-    *   Identificar las preguntas más frecuentes de los usuarios.
-    *   Utilizar los datos para ajustar los flujos de conversación y mejorar la experiencia del usuario.
+4.  **📊 Análisis de Métricas y Optimización**
 
-5.  **🚀 Presentación Efectiva del Chatbot de AsisteClick:** Desarrollar una presentación convincente que demuestre el valor del chatbot de AsisteClick.  Esto incluye:
-    *   Identificar el público objetivo de la presentación (ej: clientes potenciales, inversores, equipo interno).
-    *   Destacar los beneficios clave del chatbot (ej: mejora de la atención al cliente, automatización de tareas, reducción de costos).
-    *   Preparar una demostración en vivo del chatbot, mostrando sus funcionalidades más importantes.
-    *   Anticipar las preguntas del público y preparar respuestas claras y concisas.
-    *   Crear diapositivas visualmente atractivas y fáciles de entender.
+5.  **🚀 Elaborar un Chatbot de AsisteClick Básico** 
 
 ---
 
