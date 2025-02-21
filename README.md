@@ -1,4 +1,4 @@
-# Presentación en linea de las clases de PostgreSQL
+# Presentación en linea de las clases de ChatBot con Asisteclick
 
 >[!NOTE]
 > Usando como librería: [reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins)

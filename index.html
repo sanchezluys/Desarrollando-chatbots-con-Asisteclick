@@ -2,7 +2,7 @@
 <html lang="es">
 	<head>
 		<meta charset="utf-8">
-		<title>PostgreSQL</title>
+		<title>ChatBot Asisteclick</title>
 		<meta name="description" content="Slides">
 		<meta name="author" content="Luis Sanchez - sanchezluys">
 		<meta name="apple-mobile-web-app-capable" content="yes" />
@@ -80,15 +80,6 @@
 			:root {
 				--r-heading-text-shadow: none;
 				--r-heading1-text-shadow: none;
-			/*
-				--r-main-font: Helvetica, sans-serif;
-				--r-heading-font: Helvetica, sans-serif;
-				--r-heading-color: darkred;
-				--r-heading-text-transform: none;
-				--r-link-color: firebrick;
-				--r-link-color-dark: darkred;
-				--r-link-color-hover: red;
-			*/
 			}
 
 			[data-fullscreen]::after {
@@ -151,7 +142,7 @@
 				{ topic: "500-Trello", src: "trello.md", folder: "500_TRELLO" },
 			];
 			var topicId = getTopicId();
-			document.title = "PostgreSQL: " + getTopic();
+			document.title = "ChatBot Asisteclick: " + getTopic();
 			document.getElementById('pdf-link').href = getURL(topicId) + '&print-pdf';
 
 			// load topic
