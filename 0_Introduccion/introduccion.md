@@ -6,23 +6,11 @@
 
 #### 🎯 Objetivos - Aprendizaje del Chatbot de AsisteClick 1/2
 
-1.  **🤖 Familiarización con la Interfaz del Chatbot de AsisteClick:** Comprender y navegar por la interfaz del chatbot de AsisteClick, identificando sus componentes clave:
-    *   Panel de administración del chatbot.
-    *   Editor de flujos de conversación (si existe).
-    *   Secciones de configuración (ej: triggers, respuestas predefinidas).
-    *   Analítica y reportes (opcional).
+1.  **🤖 Familiarización con la Interfaz del Chatbot de AsisteClick:** 
 
-2.  **💬 Dominio de los Flujos de Conversación:** Aprender a diseñar y personalizar flujos de conversación efectivos para el chatbot de AsisteClick, que respondan a las necesidades de los usuarios. Esto incluye:
-    *   Identificar los casos de uso más comunes del chatbot.
-    *   Crear diálogos que sean claros, concisos y relevantes.
-    *   Utilizar diferentes tipos de respuestas (texto, imágenes, botones, etc.).
-    *   Implementar la lógica condicional (ej: "si el usuario responde 'sí', mostrar la opción A; si responde 'no', mostrar la opción B").
+2.  **💬 Dominio de los Flujos de Conversación:** 
 
-3.  **⚙️ Configuración Avanzada del Chatbot:** Explorar y configurar las opciones avanzadas del chatbot de AsisteClick para optimizar su rendimiento. Esto puede incluir:
-    *   Configuración de palabras clave (triggers) para iniciar conversaciones.
-    *   Integración con otras herramientas de AsisteClick (ej: sistema de citas, CRM).
-    *   Personalización del tono y el estilo del chatbot.
-    *   Implementación de respuestas automáticas para preguntas frecuentes.
+3.  **⚙️ Configuración Avanzada del Chatbot:** 
 
 ---
 
@@ -45,24 +33,24 @@
 
 #### 🛠️ Requisitos - AsisteClick Chatbot 1/2
 
-1.  **💻 Computadora con Acceso a la Plataforma AsisteClick:** Un equipo adecuado para acceder y configurar el chatbot de AsisteClick. Las especificaciones dependerán de si el acceso es a través de una aplicación web o una aplicación de escritorio (si existiera).
+1.  **💻 Computadora con Acceso a la Plataforma AsisteClick** 
 
-2.  **🌐 Conexión a Internet Estable:** Esencial para acceder a la plataforma AsisteClick, la documentación online, y cualquier recurso necesario para la configuración del chatbot.
+2.  **🌐 Conexión a Internet Estable**
 
-3.  **☁️ Acceso a la Plataforma AsisteClick:** El acceso al entorno donde está alojado el chatbot es crucial. Esto podría ser a través de un panel de control web, una API, o una combinación de ambos. Requiere una cuenta válida y permisos adecuados.
+3.  **☁️ Acceso a la Plataforma AsisteClick** 
 
-4.  **⚙️ Cuenta de Usuario en AsisteClick:**  Credenciales de acceso (usuario y contraseña) con los permisos necesarios para configurar y gestionar el chatbot dentro de la plataforma AsisteClick. Los permisos específicos dependerán del rol asignado (ej: administrador, editor).
+4.  **⚙️ Cuenta de Usuario en AsisteClick** 
 
 ---
 
 #### 🛠️ Requisitos - AsisteClick Chatbot 2/2
 
-5.  **📚 Documentación del Chatbot de AsisteClick:** Acceso a la documentación oficial del chatbot proporcionada por AsisteClick. Esto puede incluir guías de usuario, tutoriales, preguntas frecuentes y ejemplos de código.
+5.  **📚 Documentación del Chatbot de AsisteClick** 
 
-6.  **🤝 Espacio de Colaboración (Opcional):** Dependiendo de la complejidad del proyecto, puede ser útil tener un espacio para compartir configuraciones, flujos de conversación y obtener feedback (ej: un canal de Slack, un repositorio de GitHub).
+6.  **🤝 Espacio de Colaboración (Opcional)** 
 
-7.  **🧪 Entorno de Pruebas (Recomendado):**  Acceso a un entorno de pruebas (sandbox) dentro de la plataforma AsisteClick donde se puedan experimentar y validar configuraciones sin afectar la producción.
+7.  **🧪 Entorno de Pruebas (Recomendado)** 
 
-8.  **🧠 Conocimientos Básicos en Chatbots (Deseable):** Aunque no es estrictamente necesario, tener conocimientos básicos sobre cómo funcionan los chatbots, los flujos de conversación y el procesamiento del lenguaje natural (NLP) facilitará el aprendizaje y la configuración del chatbot de AsisteClick.
+8.  **🧠 Conocimientos Básicos en Chatbots (Deseable)** 
 
-9.  **📚 Ganas de Aprender:** Actitud proactiva para experimentar con las funcionalidades del chatbot, leer la documentación, buscar soluciones a problemas y compartir conocimientos con otros usuarios.
+9.  **📚 Ganas de Aprender**
